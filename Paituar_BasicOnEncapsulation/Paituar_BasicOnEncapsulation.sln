@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paituar_BasicOnEncapsulation", "Paituar_BasicOnEncapsulation\Paituar_BasicOnEncapsulation.csproj", "{5356FA11-02C0-44CA-A93C-648D8154F481}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5356FA11-02C0-44CA-A93C-648D8154F481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5356FA11-02C0-44CA-A93C-648D8154F481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5356FA11-02C0-44CA-A93C-648D8154F481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5356FA11-02C0-44CA-A93C-648D8154F481}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4D6BAF8-9C17-47A8-8FEB-291425782325}
+	EndGlobalSection
+EndGlobal
