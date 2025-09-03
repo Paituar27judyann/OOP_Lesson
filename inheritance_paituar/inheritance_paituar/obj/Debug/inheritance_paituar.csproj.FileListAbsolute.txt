@@ -6,3 +6,11 @@ C:\Users\Student\Desktop\Inheritance\inheritance_paituar\inheritance_paituar\obj
 C:\Users\Student\Desktop\Inheritance\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.exe
 C:\Users\Student\Desktop\Inheritance\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.pdb
 C:\Users\Student\Desktop\Inheritance\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.exe.config
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\bin\Debug\inheritance_paituar.exe.config
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\bin\Debug\inheritance_paituar.exe
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\bin\Debug\inheritance_paituar.pdb
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.exe.config
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.exe
+C:\Users\ACT-STUDENT\Desktop\oop\inheritance_paituar\inheritance_paituar\obj\Debug\inheritance_paituar.pdb

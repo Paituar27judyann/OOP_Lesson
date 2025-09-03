@@ -16,6 +16,8 @@ namespace inheritance_paituar
 
             // Object for Regular Student
             RegularStudent section = new RegularStudent();
+
+            //Value for regular student child class
             section.Name = "Student 1";
             section.Program = "BSIT";
             section.Section = "IT301";
@@ -26,6 +28,8 @@ namespace inheritance_paituar
 
             // Object for Irregular Student
             IrregularStudent unitsEnrolled = new IrregularStudent();
+            
+            //Value for irregular student child class
             unitsEnrolled.Name = "Student 2";
             unitsEnrolled.Program = "BSIT";
             unitsEnrolled.UnitsEnrolled = 18;

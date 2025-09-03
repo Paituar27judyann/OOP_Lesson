@@ -12,7 +12,7 @@ namespace inheritance_paituar
         public string Name { get; set; }
         public string Program { get; set; }
 
-        // Method to display student infoS
+        // Method to display student info
         public void BasicInfo()
         {
             Console.WriteLine("\n\tStudent Information:");
@@ -22,6 +22,7 @@ namespace inheritance_paituar
     }   
     class RegularStudent : Student         // Derived Class
     {
+        //Properties for regular students
         public string Section { get; set; }
 
         // Method specific to Regular Student
@@ -32,6 +33,7 @@ namespace inheritance_paituar
     }
     class IrregularStudent : Student      // Derived Class
     {
+        //Properties for irregular students
         public int UnitsEnrolled { get; set; }
 
         // Method specific to IrregularStudent
@@ -40,6 +42,9 @@ namespace inheritance_paituar
             Console.WriteLine("Units Enrolled: " + UnitsEnrolled);
         }
     }
-
-
 }
+
+
+
+
+
