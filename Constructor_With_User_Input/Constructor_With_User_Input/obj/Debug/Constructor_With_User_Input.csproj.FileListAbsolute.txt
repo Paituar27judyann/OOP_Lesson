@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\bin\Debug\Constructor_With_User_Input.exe.config
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\bin\Debug\Constructor_With_User_Input.exe
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\bin\Debug\Constructor_With_User_Input.pdb
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\obj\Debug\Constructor_With_User_Input.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\obj\Debug\Constructor_With_User_Input.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\obj\Debug\Constructor_With_User_Input.exe
+C:\Users\ACT-STUDENT\Desktop\ConstructorWithUserInput\Constructor_With_User_Input\Constructor_With_User_Input\obj\Debug\Constructor_With_User_Input.pdb
